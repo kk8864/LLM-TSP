@@ -1,0 +1,19 @@
+# API 密钥配置文件，禁止提交，防止密钥泄露
+config.py
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 实验输出（图片和 JSON 结果，体积大且可复现）
+results/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
